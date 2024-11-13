@@ -56,5 +56,6 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/profkingUtica/Wireshark">Wireshark</a> 
+- Detection Lab 
 - SOC Automation Project
