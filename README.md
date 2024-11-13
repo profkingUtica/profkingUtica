@@ -1,13 +1,9 @@
 # Hello, I'm Philip King
 <a href="https://www.linkedin.com/in/philip-king-06a6036/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Assistant Professor of Cybersecurity
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 Experienced Software Design Engineer with a demonstrated history of working in the Information Technology & Services industry.
 
 ## Skills
