@@ -54,4 +54,4 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 ## Projects
 - <a href="https://github.com/profkingUtica/Wireshark">Wireshark</a> 
 - <a href="https://github.com/profkingUtica/ELK-Stack/">ELK Stack</a>
-- SOC Automation Project
+- <a href="https://github.com/profkingUtica/ELK-Stack">SOC Automation Project</a>
