@@ -57,4 +57,4 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 - <a href="https://github.com/profkingUtica/ELK-Stack">SOC Automation Project</a>
 - <a href="https://github.com/profkingUtica/ELK-Stack">teest2</a>
 - <a href="https://github.com/profkingUtica/test2/">this is a copy of the project</a>
-- <a href="https://github.com/profkingUtica/linux-security-check">linux security check</a>
+
